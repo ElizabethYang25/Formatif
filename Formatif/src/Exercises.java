@@ -162,6 +162,9 @@ public class Exercises
 				}
 				return somme/a.length;
 		}
+
+
+		
 	}
 
 
